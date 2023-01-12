@@ -29,8 +29,9 @@ THEN the password is either displayed in an alert or written to the page
 
 **ASSETS**
 The final webpage after deployment should render like the mock-up image attached:
-![mock-up](https://user-images.githubusercontent.com/114640427/211993385-ab5ab225-6d39-47f4-b4a9-626410c03c7e.png)
 
+
+![mock-up](https://user-images.githubusercontent.com/114640427/211995352-3ff091fb-b16b-4bbc-9105-899986c10aa6.png)
 
 
 Website Link: https://rezakouchaki.github.io/Password-Generator/
