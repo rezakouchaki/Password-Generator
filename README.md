@@ -28,6 +28,7 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 **ASSETS**
+
 The final webpage after deployment should render like the mock-up image attached:
 
 
